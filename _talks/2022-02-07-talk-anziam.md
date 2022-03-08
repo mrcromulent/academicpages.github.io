@@ -1,10 +1,10 @@
 ---
 title: "Investigations in modelling compact star mergers using the moving-mesh code AREPO"
 collection: talks
-type: "Invited Oral Talk"
-permalink: /talks/2021-10-01-talk-1
-venue: "5th Asia Pacific Conference on Plasma Physics"
-date: 2021-10-01
+type: "Student talk"
+permalink: /talks/2022-02-07-anziam
+venue: "ANZIAM Annual Conference 2022 – Perth, WA."
+date: 2022-02-07
 location: "Online"
 ---
 
