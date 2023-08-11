@@ -2,7 +2,7 @@
 title: "AREPO White Dwarf merger simulations resulting in edge-lit detonation and run-away hypervelocity companion"
 collection: publications
 permalink: /publication/2023-05-11-dd_with_arepo
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2023-05-11
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stad1394/7160475'
